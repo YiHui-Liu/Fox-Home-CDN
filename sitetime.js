@@ -1,3 +1,4 @@
+var now = new Date();
 function createtime() { 
     var grt= new Date("03/30/2020 12:00:00");
     now.setTime(now.getTime()+250); 
